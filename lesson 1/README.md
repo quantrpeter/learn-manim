@@ -1,1 +1,1 @@
-manim lession1.py Test
+manim lesson1.py Test
